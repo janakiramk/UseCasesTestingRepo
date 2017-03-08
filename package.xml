@@ -21,12 +21,15 @@
         <name>Community</name>
     </types>
     <types>
+        <members>Account.SLA__c</members>
+        <members>Case.Product__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
         <members>Opportunity.MainCompetitors__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>myVariable__c</members>
+        <members>qwerty1__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -39,7 +42,16 @@
     </types>
     <types>
         <members>Case-Case Layout</members>
+        <members>Global-Global Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>Activity.MyActivities</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Identity User</members>
+        <name>Profile</name>
     </types>
     <types>
         <members>Campaign.ViewCampaignInfluenceReport</members>
